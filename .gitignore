@@ -12,6 +12,15 @@ dist
 dist-ssr
 *.local
 
+# Build outputs
+builds/
+*.dmg
+*.deb
+*.rpm
+*.AppImage
+*.msi
+*.exe
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

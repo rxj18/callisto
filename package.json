@@ -7,7 +7,11 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "tauri": "tauri"
+    "tauri": "tauri",
+    "tauri:build": "pnpm tauri build",
+    "build:all": "bash build-all.sh",
+    "build:windows": "build-all.bat",
+    "build:clean": "rm -rf builds src-tauri/target/release/bundle"
   },
   "dependencies": {
     "@codemirror/lang-html": "^6.4.11",

@@ -30,6 +30,14 @@
       "icons/128x128@2x.png",
       "icons/icon.icns",
       "icons/icon.ico"
-    ]
+    ],
+    "publisher": "Rituraj Paul",
+    "homepage": "https://github.com/riturajpaul/callisto",
+    "resources": [],
+    "externalBin": [],
+    "copyright": "Copyright © 2025 Rituraj Paul",
+    "category": "DeveloperTool",
+    "shortDescription": "A modern API testing tool built with Tauri and React",
+    "longDescription": "Callisto is a powerful, lightweight API testing and development tool with support for REST APIs, environments, and more."
   }
 }
